@@ -7,4 +7,4 @@ layout: default
 Hi, I'm Tom. Here are some links about me. 
 
 
-**[linkedin](https://www.linkedin.com/in/tomadamczewski/) • [blog](https://fragile-credences.github.io/) • [email](mailto:tmkadamcz@gmail.com)**
+**[linkedin](https://www.linkedin.com/in/thomasadamczewski/) • [blog](https://fragile-credences.github.io/) • [email](mailto:tmkadamcz@gmail.com)**
