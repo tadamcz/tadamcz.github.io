@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img border="0" src="/images/taphoto.jpg" width="300" />
+<img border="0" src="/images/taphoto.webp" width="300" />
 
 
 Hi, I'm <span title='Thomas Maxime Klaus Adamczewski'>Tom</span>. Here are some links about me. 
